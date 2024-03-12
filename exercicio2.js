@@ -1,8 +1,8 @@
 //Inicio do valor de A 
-let a = -2;
+let a = 2;
 
 //Inicio do valor de B
-let b = -15;
+let b = -4;
 
 //realizar soma 
 let soma = a + b;

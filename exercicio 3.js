@@ -1,11 +1,11 @@
 //Inicio o valor de A
-let a = 10;
+let a = 2;
 
 //Inicio o valor de B 
-let b = 2;
+let b = 10;
 
 //realizar diferença
-let diferença = a - b;
+let diferença = b - a;
 
 //Exibir resultado
 console.log(diferença);

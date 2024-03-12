@@ -1,4 +1,4 @@
-let temperatura = 10;
+let temperatura = -10;
 let formula = temperatura * 9/5 + 32;
 
 

@@ -1,0 +1,11 @@
+//Inicio do valor de A
+let a = 15;
+
+//Inicio do valor de B
+let b = 10;
+
+//realizar divisao
+let divisao = a / b;
+
+//Exibir resultado
+console.log(divisao);

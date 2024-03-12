@@ -1,0 +1,9 @@
+//Inicio o valor de A
+let a = 10;
+
+//realizar dobro
+let dobro = 10 + 10; 
+
+//Exibir resultado
+console.log(dobro);
+

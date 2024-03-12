@@ -2,7 +2,7 @@
 let a = 10;
 
 //realizar dobro
-let dobro = -1 + 10; 
+let dobro = 1 + -10; 
 
 //Exibir resultado
 console.log(dobro);

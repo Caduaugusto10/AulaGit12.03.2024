@@ -1,8 +1,8 @@
 //Inicio o valor de A
-let a = 10;
+let a = -3;
 
 //realizar dobro
-let dobro = 1 + -10; 
+let dobro = 1 + -3; 
 
 //Exibir resultado
 console.log(dobro);

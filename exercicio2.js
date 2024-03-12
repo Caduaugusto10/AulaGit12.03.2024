@@ -1,5 +1,5 @@
 //Inicio do valor de A 
-let a = 25;
+let a = 10;
 
 //Inicio do valor de B
 let b = 15;

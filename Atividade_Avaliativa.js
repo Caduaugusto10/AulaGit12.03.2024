@@ -1,6 +1,6 @@
 //inicio tabuada
-let a = 0;
-let b = 10;
+let a = 10;
+let b = 15;
 let i = 0;
  
 if( a && b < 0 ){

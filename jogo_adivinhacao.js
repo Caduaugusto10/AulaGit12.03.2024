@@ -1,5 +1,5 @@
 let inicio = 1;
-let fim = 100;
+let fim = 50;
 let numeros_ecreto;
 let numero_sorteado = Math.random * (fim - inicio + 1) + inicio;
   
